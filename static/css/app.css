@@ -23,6 +23,7 @@ body {
 .about-css{
   border: 3px solid black;
   border-radius: 6px;
+  box-shadow:0 4px 8px rgba(0,0,0,0.2) ;
   padding: 15px;
   text-align: center;
   background-color: aliceblue;
